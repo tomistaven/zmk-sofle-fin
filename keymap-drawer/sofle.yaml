@@ -93,7 +93,7 @@ layers:
   - (LS(ZMK HID USAGE(HID USAGE KEY, HID USAGE KEY KEYBOARD GRAVE ACCENT AND TILDE)))
   - (ZMK HID USAGE(HID USAGE KEY, HID USAGE KEY KEYBOARD LEFT BRACKET AND LEFT BRACE))
   - $$mdi:apple-keyboard-caps$$
-  - {t: '$$mdi:transfer$$', type: trans}
+  - (ZMK HID USAGE(HID USAGE KEY, HID USAGE KEY KEYBOARD RIGHT BRACKET AND RIGHT BRACE))
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
